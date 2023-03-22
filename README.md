@@ -1,7 +1,8 @@
 # Tableau-Comparison-of-Region-Based-on-Sales
 Help the organization by creating a dashboard to visualize the sales comparison between two selected regions.
-
-=============================================================================
+Link to the final dashboard: https://public.tableau.com/app/profile/dave.lam7424/viz/Dashboard-SalesComparison/Dashboard1
+Or you could download the twbx file and load it to the Tableau applicaiton.
+===========================================================================
 
 
 Steps to Perform: 
